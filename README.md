@@ -1,5 +1,7 @@
 # js-templates
-JavaScript Templates for Modular Component Development
+JavaScript Templates for Modular Component Development.
+
+Focus 1: DOM manipulation techniques
 
 @todo:
   - document basic IIFE
